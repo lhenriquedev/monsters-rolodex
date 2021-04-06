@@ -27,3 +27,14 @@
 .mb {
   margin-bottom: 1rem;
 }
+
+.card-container h2 {
+  font-size: 2rem;
+}
+.card-container h3 {
+  font-size: 1.5rem;
+}
+
+.card-container p {
+  font-size: 1.2rem;
+}
