@@ -29,6 +29,8 @@
 }
 
 .card-container h2 {
+  font-family: "Bigelow Rules", cursive;
+  letter-spacing: 2px;
   font-size: 2rem;
 }
 .card-container h3 {

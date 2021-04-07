@@ -10,13 +10,24 @@
   align-items: center;
   justify-content: center;
 
-  padding: 10rem;
+  padding: 5rem;
 }
 
 body {
+  background: linear-gradient(
+    to right,
+    rgb(47, 85, 187) 0%,
+    rgb(3, 243, 243) 100%
+  );
   font-size: 62.5%;
 }
 
 input:focus {
   outline: 0;
+}
+
+h1 {
+  font-size: 4rem;
+  margin-bottom: 2rem;
+  font-family: "Bigelow Rules", cursive;
 }
